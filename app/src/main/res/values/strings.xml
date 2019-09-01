@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WaffleRecruitingCJP</string>
+    <string name="Open_자기소개">자기소개</string>
+    <string name="Open_지원동기">지원동기</string>
+    <string name="Open_궁금">세상에서 가장 부정적인 동물은?</string>
+    <string name="자기소개나옴">최진필</string>
+    <string name="서울대학교">서울대학교</string>
+    <string name="기계항공공학부기계공학전공">기계항공공학부 기계공학전공</string>
+    <string name="학년">2학년 재학</string>
+    <string name="이메일"> galaxy0612@snu.ac.kr</string>
+    <string name="지원동기나옴">안녕하세요 저는 서울대학교 기계항공공학부에 재학중인 최진필입니다. \n와플스튜디오에서 Rookie중 하나로서 코딩, 그 중 앱개발에 대해서 배우고 싶어 지원하였습니다. \n현재는 C와 C++을 조금 다룰줄 알며, 많이 부족하지만 열심히 참여하도록 하겠습니다. \n읽어주셔서 감사합니다.</string>
+    <string name="정답">정답: 말</string>
+    <string name="이유">이유: 모든 일이 \'다 그닥\' \'다 그닥\'.... \n죄송합니다. 너무 앱이 허접해서 넣어봤습니다 죄송합니다 ㅜㅜ</string>
+
+</resources>
